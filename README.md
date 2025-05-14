@@ -1,4 +1,4 @@
-# https-github.com-mthimkulu23
+
 # 👋 Hi, I'm Thabang Mthimkulu
 
 🎯 **Junior Cybersecurity Analyst | Python Scripter | Linux Enthusiast**
